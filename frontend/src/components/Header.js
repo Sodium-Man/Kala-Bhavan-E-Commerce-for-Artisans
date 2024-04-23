@@ -30,7 +30,7 @@ const Header = () => {
                 height="64"
                 className="d-inline-block align-middle"
               />
-              &nbsp;&nbsp; KalaKriti
+              &nbsp;&nbsp; KalaBhavan
             </Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle
