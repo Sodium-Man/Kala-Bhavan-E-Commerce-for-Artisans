@@ -1,10 +1,10 @@
-# Kalakriti - An E-Commerce for Artisans
+# KalaBhavan - An E-Commerce for Artisans
 
-Welcome to the ShopKalakriti.live GitHub repository for the MERN e-commerce project! This repository contains the source code and assets for the ShopKalakriti.live website, built using the MERN stack.
+Welcome to the ShopKalaBhavan.live GitHub repository for the MERN e-commerce project! This repository contains the source code and assets for the ShopKalaBhavan.live website, built using the MERN stack.
 
 ## Introduction
 
-KalaKriti is an online platform that showcases and sells handmade and unique art and craft products. It aims to provide a marketplace for talented artisans and craftsmen to showcase and sell their creations to a wider audience. The project is built using the MERN stack, which includes MongoDB, Express.js, React, and Node.js.
+KalaBhavan is an online platform that showcases and sells handmade and unique art and craft products. It aims to provide a marketplace for talented artisans and craftsmen to showcase and sell their creations to a wider audience. The project is built using the MERN stack, which includes MongoDB, Express.js, React, and Node.js.
 
 ## Features
 
@@ -14,7 +14,7 @@ KalaKriti is an online platform that showcases and sells handmade and unique art
 - Secure checkout process to complete your purchase.
 - User authentication and account management.
 - Manage your profile and view order history.
-- Contact form to get in touch with the KalaKriti team.
+- Contact form to get in touch with the KalaBhavan team.
 
 ## Technologies Used
 
@@ -25,18 +25,18 @@ KalaKriti is an online platform that showcases and sells handmade and unique art
 
 ## Installation
 
-To run the KalaKriti MERN e-commerce project locally, follow these steps:
+To run the KalaBhavan MERN e-commerce project locally, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/shopkalakriti/shopkalakriti.live.git
+   git clone https://github.com/shopKalaBhavan/shopKalaBhavan.live.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd shopkalakriti.live
+   cd shopKalaBhavan.live
    ```
 
 3. Install the dependencies for the backend:
@@ -87,7 +87,7 @@ Contributions to the project are welcome! If you find a bug, have a feature requ
 2. Clone the forked repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/shopkalakriti/shopkalakriti.live.git
+   git clone https://github.com/shopKalaBhavan/shopKalaBhavan.live.git
    ```
 
 3. Create a new branch using the following command:
