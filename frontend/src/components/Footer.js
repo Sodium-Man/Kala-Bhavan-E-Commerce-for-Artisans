@@ -5,7 +5,7 @@ const Footer = () => {
     <Wrapper>
       <p>
         Copyright &copy;{new Date().getFullYear()}
-        <span> KalaKriti</span>
+        <span> KalaBhavan</span>
       </p>
     </Wrapper>
   );
